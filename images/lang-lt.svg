@@ -1,0 +1,13 @@
+<svg width="26" height="27" viewBox="0 0 26 27" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="flag-li">
+<path id="Clip 2" d="M0.5 13.1283C0.5 19.9879 6.06084 25.5488 12.9198 25.5488C19.7801 25.5488 25.341 19.9879 25.341 13.1283C25.341 6.26866 19.7802 0.707031 12.9198 0.707031C6.0608 0.707031 0.5 6.2687 0.5 13.1283Z" stroke="#DDDDDD"/>
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="26" height="27">
+<path id="Clip 2_2" d="M0.5 13.1283C0.5 19.9879 6.06084 25.5488 12.9198 25.5488C19.7801 25.5488 25.341 19.9879 25.341 13.1283C25.341 6.26866 19.7802 0.707031 12.9198 0.707031C6.0608 0.707031 0.5 6.2687 0.5 13.1283Z" fill="white" stroke="white"/>
+</mask>
+<g mask="url(#mask0)">
+<path id="Fill 1" fill-rule="evenodd" clip-rule="evenodd" d="M-7.41943 25.4523H33.2598V17.2946H-7.41943V25.4523Z" fill="#E92838"/>
+<path id="Fill 3" fill-rule="evenodd" clip-rule="evenodd" d="M-7.41943 8.97034H33.2598V0.803589H-7.41943V8.97034Z" fill="#FDCA16"/>
+<path id="Fill 4" fill-rule="evenodd" clip-rule="evenodd" d="M-7.41943 17.2946H33.2598V8.97034H-7.41943V17.2946Z" fill="#31B137"/>
+</g>
+</g>
+</svg>

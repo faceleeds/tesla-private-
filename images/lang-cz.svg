@@ -1,0 +1,13 @@
+<svg width="26" height="26" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="flag-cz">
+<path id="Clip 2" d="M0.5 12.9205C0.5 19.7801 6.06084 25.341 12.9198 25.341C19.7794 25.341 25.341 19.7802 25.341 12.9205C25.341 6.06005 19.7793 0.5 12.9198 0.5C6.06086 0.5 0.5 6.06011 0.5 12.9205Z" stroke="#DDDDDD"/>
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="26" height="26">
+<path id="Clip 2_2" d="M0.5 12.9205C0.5 19.7801 6.06084 25.341 12.9198 25.341C19.7794 25.341 25.341 19.7802 25.341 12.9205C25.341 6.06005 19.7793 0.5 12.9198 0.5C6.06086 0.5 0.5 6.06011 0.5 12.9205Z" fill="white" stroke="white"/>
+</mask>
+<g mask="url(#mask0)">
+<path id="Fill 1" fill-rule="evenodd" clip-rule="evenodd" d="M-4.32959 12.8507H36.1704V0.569458H-4.32959V12.8507Z" fill="white"/>
+<path id="Fill 3" fill-rule="evenodd" clip-rule="evenodd" d="M-4.32959 25.2707H36.1704V12.8507H-4.32959V25.2707Z" fill="#D61419"/>
+<path id="Fill 4" fill-rule="evenodd" clip-rule="evenodd" d="M-4.32959 0.569702L15.8694 12.851L-4.32959 25.271V0.569702Z" fill="#12457D"/>
+</g>
+</g>
+</svg>
